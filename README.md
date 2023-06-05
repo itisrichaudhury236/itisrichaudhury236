@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itisrichaudhury236&label=Profile%20views&color=0e75b6&style=flat" alt="itisrichaudhury236" /> </p>
 
-- 🌱 I’m currently learning **UI fullstack,web developement,AWS,Reactjs**
+- 🌱 I’m currently learning **Reactjs, AWS**
 
 - 💬 Ask me about **Reactjs,AWS,javascript**
 
