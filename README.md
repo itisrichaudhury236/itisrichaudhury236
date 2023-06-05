@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itisri Chaudhury</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h5 align="center"> Enthuse to built responsive web apps that are fast, easy to use, and built with best practices. The main area of my expertise in frontend developement  using  REACT, JAVASCRIPT, TYPESCRIPT, CSS building  medium and complex and web apps, custom plugin, features, animation &  coding interactive layouts.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itisrichaudhury236&label=Profile%20views&color=0e75b6&style=flat" alt="itisrichaudhury236" /> </p>
 
